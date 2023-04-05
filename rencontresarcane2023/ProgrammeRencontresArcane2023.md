@@ -16,7 +16,7 @@
 14h | Phénix : un code multi-physiques sous Arcane
 14h30 | Introduction du coupleur preCICE dans le simulateur A2 - ArcTem/Code-Aster
 15h | Pause
-15h15 | Modèles utilisateurs dans Phénix: mise en place et exemple d'utilisations
+15h15 | Modèles utilisateurs dans Phénix : mise en place et exemple d'utilisations
 15h45 | Raffinement statique de maillage cartésien dans Phénix
 16h15 | Roadmap Arcane, un point sur l'Open Source et discussions
 17h | Clôture de la journée
