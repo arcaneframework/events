@@ -10,11 +10,11 @@
 10h30 | Pause
 10h45 | Inférence d'un réseau de neurones dans un code HPC : étude d'efficacité et présentation d'un use case dans le simulateur Arcane Geoxim
 11h15 | Accélération et amélioration des simulations grâce au deep learning
-11h45 | Visite
+11h45 | Modélisation du couplage entre l’écoulement, la chimie et la géomécanique dans Geoxim
 12h15 | Buffet
-13h30 | Modélisation du couplage entre l’écoulement, la chimie et la géomécanique dans Geoxim
+13h30 | Visite laboratoires IFPEN : de la roche aux modèles...(réservée aux participants non IFPEN)
 14h | Phénix : un code multi-physiques sous Arcane
-14h30 | Introduction du coupleur preCICe dans le simulateur A2 - ArcTem/Code-Aster
+14h30 | Introduction du coupleur preCICE dans le simulateur A2 - ArcTem/Code-Aster
 15h | Pause
 15h15 | Modèles utilisateurs dans Phénix: mise en place et exemple d'utilisations
 15h45 | Raffinement statique de maillage cartésien dans Phénix
