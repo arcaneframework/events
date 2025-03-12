@@ -10,7 +10,7 @@ The next session of 'Rencontres Arcane' are scheduled on March 24th 2025 at [TGC
 
 The registration is free.
 
-You can register until 3rd mars 2025 at the following address :
+You can register until 14th mars 2025 at the following address :
 
 [Register to Rencontres Arcane 2025](https://forms.gle/TKQDKhzL8QZaFRyo6)
 
