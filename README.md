@@ -25,7 +25,7 @@ You can register until 14th mars 2025 at the following address :
 13h30 | [IFPEN] 2: Éléments Virtuels et méthodes volumes finis multipoints dans l’environnement Arcane – Application à des simulations multi-physiques de stockage de CO2, Guillaume Enchéry 
 14h00 | [CEA] 2: Introduction d’un modèle de spray dans le code MaHyCo, Lucas Prouvost
 14h30 | Pause
-15h00 | [CEA] 3: Portage GPU de ArcaneFem et résultats sur Adastra 
+15h00 | [CEA] 3: Portage GPU de ArcaneFem et résultats sur Adastra, Mohd Afeef Badri
 15h30 | [IFPEN] 3: Les Arcanes de la géoscience : une boite de pandore nommée ArcaDES, Benoît Chauveau 
 16h00 | [Arcane] <ul><li>Présentation des fonctionnalités des dernières versions d'Arcane</li><li>Roadmap Arcane, Discussion</li></ul>
 16h30 | Clôture de la journée 
