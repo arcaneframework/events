@@ -8,12 +8,6 @@ This repository store documents/presentations of Arcane events (i.e. Rencontres 
 
 The next session of 'Rencontres Arcane' are scheduled on March 24th 2025 at [TGCC](https://www-hpc.cea.fr/en/TGCC.html).
 
-The registration is free.
-
-You can register until 14th mars 2025 at the following address :
-
-[Register to Rencontres Arcane 2025](https://forms.gle/TKQDKhzL8QZaFRyo6)
-
 -- |  Programme de la journée
 -- |  --
 09h00 | **Acceuil des participants**
