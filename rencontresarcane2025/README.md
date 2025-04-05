@@ -1,9 +1,5 @@
 # Rencontres Arcane 2025
 
-This repository store documents/presentations of Arcane events (i.e. Rencontres Arcane)
-
-## Next event is 'Rencontres Arcane' on 24th mars 2025
-
 <img src="./visuel/BandeauARCANE_2025_V2.jpg" />
 
 La version 2025 des Rencontres Arcane a eu lieu au [TGCC](https://www-hpc.cea.fr/en/TGCC.html) le 24 mars 2025.
